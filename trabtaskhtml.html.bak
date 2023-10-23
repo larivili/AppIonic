@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TrabTask</title>
+<link rel="stylesheet" href="trabtaskcss.css">
+</head>
+<body>
+<h1>TrabTask</h1>
+<div class="containerHOJE">
+<h1>HOJE</h1>
+<div class="button-containerHOJE">
+<button onclick="location.href='containerHOJE'">HOJE</button>
+</div>
+</div>
+<div class="containerCONCLUIDA">
+<h1>CONCLUIDA</h1>
+<div class="button-containerCONCLUIDA">
+<button onclick="location.href='containerCONCLUIDA'">CONCLUIDA</button>
+</div>
+</div>
+<div class="containerTODAS">
+<h1>TODAS</h1>
+<div class="button-containerTODAS">
+<button onclick="location.href='containerTODAS'">TODAS</button>
+</div>
+</div>
+<h1>SEG</H1>
+<input type="checkbox">
+<input type="checkbox">
+<input type="text">
+<input type="text">
+<h1>TER</h1>
+<input type="checkbox">
+<input type="checkbox">
+<input type="text">
+<input type="text">
+<h1>QUA</h1>
+<input type="checkbox">
+<input type="checkbox">
+<input type="text">
+<input type="text">
+<h1>QUI</h1>
+<input type="checkbox">
+<input type="checkbox">
+<input type="text">
+<input type="text">
+<h1>SEX</h1>
+<input type="checkbox">
+<input type="checkbox">
+<input type="text">
+<input type="text">
+<h1>SAB</h1>
+<input type="checkbox">
+<input type="checkbox">
+<input type="text">
+<input type="text">
+<h1>DOM</h1>
+
+
+</body>
+
+</html>

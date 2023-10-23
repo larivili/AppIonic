@@ -1,0 +1,36 @@
+body {
+	background-color: #FFFAF0;
+	font-family: Arial;
+}
+
+h1 {
+	color: black;
+	text-align: center;
+}
+
+.containerHOJE {
+	background-color: #B0C4DE;
+	border-radius: 4px;
+	padding: 20px;
+	margin: 0;
+	max-width: 300px;
+}
+
+.containerCONCLUIDA {
+	background-color: #B0C4DE;
+	border-radius: 4px;
+	padding: 20px;
+	margin: 0;
+	max-width: 300px;
+}
+
+.containerTODAS {
+	background-color: #B0C4DE;
+	border-radius: 4px;
+	padding: 20px;
+	margin: 0;
+	max-width: 300px;
+}
+
+	
+
